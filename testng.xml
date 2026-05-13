@@ -1,0 +1,11 @@
+<suite name="AutomationSuite">
+
+    <test name="LoginTests">
+
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+
+    </test>
+
+</suite>
